@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Document/">
+    <File Path="Data.txt" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/CreditService/">
+    <Project Path="src/CreditService/CreditService.Api/CreditService.Api.csproj" />
+    <Project Path="src/CreditService/CreditService.Application/CreditService.Application.csproj" />
+    <Project Path="src/CreditService/CreditService.Domain/CreditService.Domain.csproj" />
+    <Project Path="src/CreditService/CreditService.Infrastructure/CreditService.Infrastructure.csproj" />
+  </Folder>
+</Solution>

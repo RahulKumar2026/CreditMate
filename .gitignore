@@ -1,0 +1,21 @@
+
+# .NET build files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Logs
+logs/
+*.log
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+
+# Keep project source and configuration templates
